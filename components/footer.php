@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<footer class="main-footer" style="background-image:url(images/background/2.jpg)">
+<footer class="main-footer" style="background-image:url(assets/images/background/2.jpg)">
 
 <div class="auto-container">
 
@@ -26,6 +26,7 @@
 
                     
 
+
                     <!--Footer Column-->
 
                     <div class="footer-column col-lg-6 col-md-6 col-sm-12">
@@ -34,7 +35,7 @@
 
                             <div class="logo">
 
-                                <a href="index-2.php"><img src="images/footer-logo.png" alt="" /></a>
+                                <a href="index.php"><img src="assets/images/OIP2.png" alt="" /></a>
 
                             </div>
 
@@ -74,7 +75,7 @@
 
                                 <div class="post">
 
-                                    <div class="thumb"><a href="blog-single.php"><img src="images/resource/post-thumb-3.jpg" alt=""></a></div>
+                                    <div class="thumb"><a href="blog-single.php"><img src="assets/images/resource/new18.jpg" alt=""></a></div>
 
                                     <h5><a href="blog-single.php">Your Future is Created by What You Do Today</a></h5>
 
@@ -86,7 +87,7 @@
 
                                 <div class="post">
 
-                                    <div class="thumb"><a href="blog-single.php"><img src="images/resource/post-thumb-4.jpg" alt=""></a></div>
+                                    <div class="thumb"><a href="blog-single.php"><img src="assets/images/resource/new19.jpg" alt=""></a></div>
 
                                     <h5><a href="blog-single.php">How to Maximise Time Spent at The GYM.</a></h5>
 
@@ -188,7 +189,7 @@
 
     <div class="footer-bottom">
 
-        <div class="copyright">Copyright 2023 Theme by expertthemes</div>
+        <div class="copyright">Copyright 2023 M Hasnat Nadeem</div>
 
     </div>
 
